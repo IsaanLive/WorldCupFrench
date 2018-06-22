@@ -103,13 +103,11 @@ Maintenant vous avez terminé tout ce qui va dans l'éclipse, cliquez sur le fic
 
 Sélectionnez Projets existants dans l'espace de travail:
 
-Maintenant, sélectionnez le répertoire racine (dossier mp3 dans le zip):
+Maintenant, sélectionnez le répertoire racine (dossier dans le zip):
 
-Cliquez sur OK, puis terminez. Maintenant, vous verrez l'application dans l'onglet de vos projets. Développez la source, développez src, à droite
-cliquez sur com.mp3wiz cliquez sur réfracteur-> renommer. Maintenant, sélectionnez Renommer les paquets Sub et changez le nom
-de com.euroasia.nl à com.renamepackage
+Cliquez sur OK, puis terminez. Maintenant, vous verrez l'application dans l'onglet de vos projets. Développez la source, développez src, à droite cliquez sur com.mp3wiz cliquez sur réfracteur-> renommer. Maintenant, sélectionnez Renommer les paquets Sub et changez le nom de com.euroasia.fr à com.renamepackage
 
-App_name à quel que soit votre nom l'application ex. MP3FR topappsurl à l'URL de votre application.
+App_name à quel que soit votre nom l'application ex. Coupe du Monde topappsurl à l'URL de votre application.
 
 <h2>8) Exportation de l'application</h2>
 Maintenant, il est temps d'exporter l'application. Sélectionnez le fichier -> exporter -> Exporter l'application Android -> Suivant ->

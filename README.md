@@ -1,5 +1,4 @@
 <h1>Coupe du monde de la FIFA Application Android</h1>
-<h2>Comment configurer un MP3 Android</h2>
 
 Conditions d'application:
 -Java JDK
@@ -46,8 +45,17 @@ Sélectionnez l'API Android et cliquez sur installer le package
 <h2>4) Installation de l'ecplise</h2>
 Téléchargez Eclipse et extrayez le contenu.
 
-o Windows 32
-o Windows 64
+Windows 32-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-win32.zip
+
+Windows 64-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-win32-x86_64.zip
+
+Mac OS X (Cocoa) 32-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-macosx-cocoa.tar.gz
+
+Mac OS X (Cocoa) 64-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-macosx-cocoa-x86_64.tar.gz
+
+Linux 32-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-linux-gtk.tar.gz
+
+Linux 64-bit http://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/kepler/SR1/eclipse-java-kepler-SR1-linux-gtk-x86_64.tar.gz
 
 Après avoir extrait Eclipse, accédez au dossier et ouvrez Eclipse en double-cliquant sur eclipse.exe
 
